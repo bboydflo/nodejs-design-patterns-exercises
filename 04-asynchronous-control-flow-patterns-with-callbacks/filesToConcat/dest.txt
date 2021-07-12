@@ -1,0 +1,4 @@
+initial text
+foo
+bar
+baz

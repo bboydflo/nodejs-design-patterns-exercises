@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-design-patterns-exercises",
+  "version": "1.0.0",
+  "description": "This repop contains some of the exercises I tried to complete after following the book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bboydflo/nodejs-design-patterns-exercises.git"
+  },
+  "author": "Florin Cosmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bboydflo/nodejs-design-patterns-exercises/issues"
+  },
+  "homepage": "https://github.com/bboydflo/nodejs-design-patterns-exercises#readme",
+  "type": "module"
+}
